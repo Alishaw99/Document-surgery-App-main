@@ -1,6 +1,6 @@
-# 📄 Document Buddy App
+# 📄 Document Surgery App
 
-![Document Buddy App](sct.png)
+
 
 **Document Buddy App** is a powerful Streamlit-based application designed to simplify document management. Upload your PDF documents, create embeddings for efficient retrieval, and interact with your documents through an intelligent chatbot interface. 🚀
 
@@ -136,7 +136,7 @@ This project is licensed under the MIT License.
 
 ### 📫 Contact
 
-•	Email: aianytime07@gmail.com ✉️
+•	Email:tariqham@gmail.com ✉️
 
 Feel free to reach out for any queries, suggestions, or contributions. Your feedback is invaluable!
 
