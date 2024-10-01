@@ -2,7 +2,7 @@
 
 
 
-**Document Buddy App** is a powerful Streamlit-based application designed to simplify document management. Upload your PDF documents, create embeddings for efficient retrieval, and interact with your documents through an intelligent chatbot interface. 🚀
+**Document Surgery App** is a powerful Streamlit-based application designed to simplify document management. Upload your PDF documents, create embeddings for efficient retrieval, and interact with your documents through an intelligent chatbot interface. 🚀
 
 ## 🛠️ Features
 
@@ -14,7 +14,7 @@
 
 ## 🖥️ Tech Stack
 
-The Document Buddy App leverages a combination of cutting-edge technologies to deliver a seamless and efficient user experience. Here's a breakdown of the technologies and tools used:
+The Document Surgery App leverages a combination of cutting-edge technologies to deliver a seamless and efficient user experience. Here's a breakdown of the technologies and tools used:
 
 - **[LangChain](https://langchain.readthedocs.io/)**: Utilized as the orchestration framework to manage the flow between different components, including embeddings creation, vector storage, and chatbot interactions.
   
@@ -30,7 +30,7 @@ The Document Buddy App leverages a combination of cutting-edge technologies to d
 
 ## 📁 Directory Structure
 
-document_buddy_app/
+document_Surgery_app/
 │
 ├── new.py
 ├── vectors.py
@@ -39,13 +39,13 @@ document_buddy_app/
 
 ## 🚀 Getting Started
 
-Follow these instructions to set up and run the Document Buddy App on your local machine.
+Follow these instructions to set up and run the Document Surgery App on your local machine.
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AIAnytime/Document-Buddy-App.git
-cd Document-Buddy-App
+git clone https://github.com/AIAnytime/Document-Surgery-App.git
+cd Document-Surgery-App
 
 2. Create a Virtual Environment
 
@@ -70,13 +70,13 @@ Follow these steps to create a virtual environment using Anaconda:
 	1.	Open the Anaconda Prompt.
 	2.	Create a new environment:
 
-conda create --name document_buddy python=3.9
+conda create --name document_Surgery python=3.9
 
-(Replace document_buddy with your preferred environment name if desired).
+(Replace document_Surgery with your preferred environment name if desired).
 
 	3.	Activate the newly created environment:
 
-conda activate document_buddy
+conda activate document_Surgery
 
 
 
@@ -140,7 +140,7 @@ This project is licensed under the MIT License.
 
 Feel free to reach out for any queries, suggestions, or contributions. Your feedback is invaluable!
 
-© 2024 Document Buddy App by AI Anytime. All rights reserved. 🛡️
+© 2024 Document Surgery App by AI Anytime. All rights reserved. 🛡️
 
 ### 🔗 Useful Links
 
